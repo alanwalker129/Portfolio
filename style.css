@@ -5,11 +5,11 @@
 
 /* hero background image */
 .bgimage {
-    
+    height:500px;
     background:url('her0.jpeg');
-    background-size:100% 100%;
+    background-size:cover;
     background-repeat: no-repeat;
-    position:relative;
+    position:center;
 }
 /* text css above hero image*/
 .hero_title {
