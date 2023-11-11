@@ -5,9 +5,9 @@
 
 /* hero background image */
 .bgimage {
-    height:50vh;
+    height:100vh;
     background: url('her0.jpeg');
-    background-size:cover;
+    background-size:auto;
     position:relative;
 }
 /* text css above hero image*/
