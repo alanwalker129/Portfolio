@@ -7,8 +7,10 @@
 .bgimage {
     height:100vh;
     background: url('her0.jpeg');
-    background-size:auto;
-    position:relative;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 /* text css above hero image*/
 .hero_title {
