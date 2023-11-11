@@ -7,7 +7,7 @@
 .bgimage {
     
     background:url('her0.jpeg');
-    background-size:300px 300px;
+    background-size:auto;
     position:relative;
 }
 /* text css above hero image*/
