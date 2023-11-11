@@ -5,9 +5,9 @@
 
 /* hero background image */
 .bgimage {
-    height:100hv;
+ 
     background: url('her0.jpeg');
-    background-size:auto;
+    background-size:300px 100px;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
