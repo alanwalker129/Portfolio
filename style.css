@@ -6,6 +6,13 @@
 /* hero background image */
 .bgimage {
     height:100vh;
+    position: sticky;
+    top: 30px;
+    left: 0;
+    padding: 0;
+    min-width: calc(25% - 15px);
+    margin-bottom: 30px;
+    visibility: visible;
     background:url('hero1.jpg');
     background-size:cover;
     position:relative;
